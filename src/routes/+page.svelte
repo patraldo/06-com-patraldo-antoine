@@ -1,5 +1,5 @@
 <h1>Antoine Patraldo</h1>
-<h2>La Musa que Más Aplauda</h2>
+<h2>La musa que más aplauda</h2>
 <h3>Santa Tere, Guadalajara</h3>
 
 <style>
@@ -11,7 +11,7 @@
 h1 {
 	font-family: 'Special Elite', cursive;
 font-size: 3.0rem;
-padding: 2px 2px 6px;
+padding: 2px 2px 4px;
   text-align: center;
   max-width: 680px;
   margin: 0 auto;
@@ -19,8 +19,8 @@ padding: 2px 2px 6px;
 
 h2 {
 	font-family: 'Tangerine', cursive;
-font-size: 2.5rem;
-padding: 2px 2px 6px;
+font-size: 2.9rem;
+padding: 2px 2px 2px;
   text-align: center;
   max-width: 680px;
   margin: 0 auto;
@@ -28,8 +28,8 @@ padding: 2px 2px 6px;
 
 h3 {
 	font-family: 'Special Elite', cursive;
-font-size: 1.8rem;
-padding: 2px 2px 6px;
+font-size: 1.6rem;
+padding: 2px 2px 2px;
   text-align: center;
   max-width: 680px;
   margin: 0 auto;
@@ -84,8 +84,8 @@ flex: 100%;
 
 <div class="row">
 <div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.webp" alt="cute cat crouched on a box" onclick="window.open(this.src, '_blank')"></div>
-<div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.jpg" alt="some description" onclick="window.open(this.src, '_blank')"></div>
-<div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.jpg" alt="some description" onclick="window.open(this.src, '_blank')"></div>
-<div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.jpg" alt="some description" onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://maison.patraldo.com/3catsMonochrome/ChedarChisiPequeno.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://maison.patraldo.com/3catsMonochrome/OhnoBolis.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://maison.patraldo.com/3catsMonochrome/Gatito.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
 </div> 
 
