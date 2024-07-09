@@ -1,5 +1,6 @@
 <h1>Antoine Patraldo</h1>
-<h2>La Musa que Más Aplauda</h3>
+<h2>La Musa que Más Aplauda</h2>
+<h3>Santa Tere, Guadalajara</h3>
 
 <style>
 
