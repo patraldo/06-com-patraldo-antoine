@@ -18,7 +18,7 @@ padding: 20px 20px 60px;
 
 h2 {
 	font-family: 'Special Elite', cursive;
-font-size: 1.0rem;
+font-size: 2.0rem;
 padding: 2px 2px 6px;
   max-width: 680px;
   margin: 0 auto;
