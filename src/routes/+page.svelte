@@ -14,8 +14,6 @@ font-size: 3.0rem;
 padding: 20px 20px 60px;
   max-width: 680px;
   margin: 0 auto;
-
-
 }
 
 h2 {
@@ -24,9 +22,17 @@ font-size: 1.0rem;
 padding: 20px 20px 60px;
   max-width: 680px;
   margin: 0 auto;
-
-
 }
+
+h3 {
+	font-family: 'Special Elite', cursive;
+font-size: 1.0rem;
+padding: 20px 20px 60px;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+
 * {
 	box-sizing: border-box;
 }
