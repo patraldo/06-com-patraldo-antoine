@@ -1,5 +1,5 @@
 <h1>Antoine Patraldo</h1>
-<h3>La Musa que Más Aplauda</h3>
+<h2>La Musa que Más Aplauda</h3>
 
 <style>
 
@@ -17,7 +17,7 @@ padding: 20px 20px 60px;
 
 }
 
-h3 {
+h2 {
 	font-family: 'Special Elite', cursive;
 font-size: 1.0rem;
 padding: 20px 20px 60px;
@@ -73,7 +73,7 @@ flex: 100%;
 
 
 <div class="row">
-<div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.webp" alt="some description" onclick="window.open(this.src, '_blank')"></div>
+<div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.webp" alt="cute cat crouched on a box" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.jpg" alt="some description" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.jpg" alt="some description" onclick="window.open(this.src, '_blank')"></div>
 <div class="column"><img src="https://maison.patraldo.com/ExGrisiJunio.jpg" alt="some description" onclick="window.open(this.src, '_blank')"></div>
