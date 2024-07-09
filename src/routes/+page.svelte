@@ -19,7 +19,7 @@ padding: 20px 20px 60px;
 h2 {
 	font-family: 'Special Elite', cursive;
 font-size: 1.0rem;
-padding: 20px 20px 60px;
+padding: 2px 2px 6px;
   max-width: 680px;
   margin: 0 auto;
 }
@@ -27,7 +27,7 @@ padding: 20px 20px 60px;
 h3 {
 	font-family: 'Special Elite', cursive;
 font-size: 1.0rem;
-padding: 20px 20px 60px;
+padding: 2px 2px 6px;
   max-width: 680px;
   margin: 0 auto;
 }
