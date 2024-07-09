@@ -1,4 +1,4 @@
-<h1>Welcome to Antoine Patraldo</h1>
+<h1>Antoine Patraldo</h1>
 
 <style>
 
