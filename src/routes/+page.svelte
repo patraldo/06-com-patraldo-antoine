@@ -11,23 +11,26 @@
 h1 {
 	font-family: 'Special Elite', cursive;
 font-size: 3.0rem;
-padding: 20px 20px 60px;
+padding: 2px 2px 6px;
+  text-align: center;
   max-width: 680px;
   margin: 0 auto;
 }
 
 h2 {
-	font-family: 'Special Elite', cursive;
-font-size: 2.0rem;
+	font-family: 'Tangerine', cursive;
+font-size: 2.5rem;
 padding: 2px 2px 6px;
+  text-align: center;
   max-width: 680px;
   margin: 0 auto;
 }
 
 h3 {
 	font-family: 'Special Elite', cursive;
-font-size: 1.0rem;
+font-size: 1.8rem;
 padding: 2px 2px 6px;
+  text-align: center;
   max-width: 680px;
   margin: 0 auto;
 }
