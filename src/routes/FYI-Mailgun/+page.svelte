@@ -4,7 +4,7 @@
 
 </script>
 
-<h1>{data.text}</h1>
+<h1>{data.from}</h1>
 
 <main class="main">
 	<div class="container">
