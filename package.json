@@ -22,5 +22,11 @@
     "vite": "^5.0.3",
     "wrangler": "^3.63.1"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "mailgun-nodemailer-transport": "^3.0.2",
+    "mailgun.js": "^10.2.3",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.14"
+  }
 }
